@@ -1393,12 +1393,19 @@
 
 /* Menu */
 
-	#nav {
-		background: #0d1217;
-		z-index: 10002;
-		position: relative;
-		width: 4em;
-	}
+#nav {
+	background: #0d1217;
+	z-index: 10002;
+	position: relative;
+	width: 4em;
+}
+
+app-nav {
+	background: #0d1217;
+	z-index: 10002;
+	position: relative;
+	width: 4em;
+}
 
 		#nav ul {
 			list-style: none;
@@ -1469,7 +1476,7 @@
 		height: 75vh;
 		position: relative;
 		background: #000;
-		background-image: url(../../images/banner.jpg);
+		background-image: url(../images/banner.jpg);
 		background-size: cover;
 		background-attachment: fixed;
 		background-repeat: no-repeat;
