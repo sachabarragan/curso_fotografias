@@ -42,25 +42,32 @@
 		// Scrolly.
 			$('.scrolly').scrolly();
 
+			
+
 		// Gallery.
 			$('.gallery').each(function() {
+				console.log("111111");
 
 				var	$gallery = $(this),
 					$content = $gallery.find('.content');
 
 				// Poptrox.
-					$content.poptrox({
+					/* $content.poptrox({
 						usePopupCaption: true
-					});
+					}); */
+
+					console.log("2222");
 
 				// Tabs.
 					$gallery.each( function() {
+						console.log("3333");
 
 						var $this = $(this),
 							$tabs = $this.find('.tabs a'),
 							$media = $this.find('.media');
 
 						$tabs.on('click', function(e) {
+							console.log("4444");
 
 							var $this = $(this),
 								tag = $this.data('tag');
@@ -78,6 +85,7 @@
 								$media
 									.fadeOut('fast')
 									.each(function() {
+										console.log("55555");
 
 										var $this = $(this);
 

@@ -1,5 +1,6 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
+import { HttpClientModule } from '@angular/common/http';
 
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './components/shared/header/header.component';
@@ -9,6 +10,9 @@ import { GalleryComponent } from './components/pages/gallery/gallery.component';
 import { GenericComponent } from './components/pages/generic/generic.component';
 import { NavComponent } from './components/shared/nav/nav.component';
 import { ContactComponent } from './components/shared/contact/contact.component';
+import { PictureComponent } from './components/pages/picture/picture.component';
+import { AppRoutingModule } from './app-routing.module';
+
 
 @NgModule({
   declarations: [
@@ -19,10 +23,13 @@ import { ContactComponent } from './components/shared/contact/contact.component'
     GalleryComponent,
     GenericComponent,
     NavComponent,
-    ContactComponent
+    ContactComponent,
+    PictureComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    AppRoutingModule,
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]
