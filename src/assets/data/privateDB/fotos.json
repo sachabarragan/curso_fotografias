@@ -1,0 +1,74 @@
+[
+    {
+        "cod": "img01",
+        "url": "01.JPG",
+        "titulo":"Parque La Carolina"
+  
+    },
+    {
+        "cod": "img02",
+        "url": "02.JPG",
+        "titulo":"Una tarde en el Amazonas Peruano"
+  
+    },
+    {
+        "cod": "img03",
+        "url": "03.JPG",
+        "titulo":"Parque Nacional El Caxas, Ecuador"
+  
+    },
+    {
+        "cod": "img04",
+        "url": "04.JPG",
+        "titulo":"Colgando La Ropa en Pasto, Colombia"
+  
+    },
+    {
+        "cod": "img05",
+        "url": "05.JPG",
+        "titulo":"En la Laguna 69, Huaraz, Peru"
+  
+    },
+    {
+        "cod": "img06",
+        "url": "06.JPG",
+        "titulo":"Llegando a la frontera Chile/Argentina"
+  
+    },
+    {
+        "cod": "img07",
+        "url": "07.JPG",
+        "titulo":"El Valle de la Luna, Chile"
+  
+    },
+    {
+        "cod": "img08",
+        "url": "08.JPG",
+        "titulo":"Montañas de Huaraz, Peru"
+  
+    },
+    {
+        "cod": "img09",
+        "url": "09.JPG",
+        "titulo":"Desierto de Ica, Peru"
+  
+    },
+    {
+        "cod": "img10",
+        "url": "10.JPG",
+        "titulo":"Musica en el Amazonas"
+  
+    },
+    {
+        "cod": "img11",
+        "url": "11.JPG",
+        "titulo":"Mas del desierto de Ica"  
+    },
+    {
+        "cod": "img12",
+        "url": "12.JPG",
+        "titulo":"El Valle de la Luna, Chile"
+  
+    }
+
+]

@@ -11,7 +11,7 @@ const app_routes: Routes = [
     { path: 'home', component: HomeComponent },
     { path: 'gallery', component: GalleryComponent },
     { path: 'generic', component: GenericComponent },
-    { path: 'picture', component: PictureComponent },
+    { path: 'picture/:id', component: PictureComponent },
     { path: '**', pathMatch: 'full', redirectTo: 'home'}
 ];
 

@@ -1,0 +1,109 @@
+{
+    "img01":{
+        "url": "01.JPG",
+        "titulo":"Parque La Carolina",
+        "pais":"Ecuador",
+        "lugar": "Quito",
+        "categoria": "people",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc placerat nisl at varius convallis. Pellentesque est orci, lobortis vel nibh sit amet, convallis molestie massa. Aenean consequat auctor accumsan. Proin scelerisque elit sed augue tristique commodo. Etiam sagittis venenatis felis ut fermentum. Duis nulla ipsum, blandit eget tincidunt eu, suscipit in nibh. Sed eu bibendum dui. Nulla facilisis euismod dolor at interdum. Aenean leo arcu, pretium vitae neque vel, dapibus rutrum nisl. Curabitur maximus nec odio tristique ornare. Curabitur sit amet mauris nunc."
+  
+    },
+    "img02":{
+        "url": "02.JPG",
+        "titulo":"Una tarde en el Amazonas",
+        "pais":"Peru",
+        "lugar": "Iquitos",
+        "categoria": "people",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc placerat nisl at varius convallis. Pellentesque est orci, lobortis vel nibh sit amet, convallis molestie massa. Aenean consequat auctor accumsan. Proin scelerisque elit sed augue tristique commodo. Etiam sagittis venenatis felis ut fermentum. Duis nulla ipsum, blandit eget tincidunt eu, suscipit in nibh. Sed eu bibendum dui. Nulla facilisis euismod dolor at interdum. Aenean leo arcu, pretium vitae neque vel, dapibus rutrum nisl. Curabitur maximus nec odio tristique ornare. Curabitur sit amet mauris nunc."
+  
+    },
+    "img03":{
+        "url": "03.JPG",
+        "titulo":"Parque Nacional El Caxas, Ecuador",
+        "pais":"Ecuador",
+        "lugar": "Cuenca",
+        "categoria": "people",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc placerat nisl at varius convallis. Pellentesque est orci, lobortis vel nibh sit amet, convallis molestie massa. Aenean consequat auctor accumsan. Proin scelerisque elit sed augue tristique commodo. Etiam sagittis venenatis felis ut fermentum. Duis nulla ipsum, blandit eget tincidunt eu, suscipit in nibh. Sed eu bibendum dui. Nulla facilisis euismod dolor at interdum. Aenean leo arcu, pretium vitae neque vel, dapibus rutrum nisl. Curabitur maximus nec odio tristique ornare. Curabitur sit amet mauris nunc."
+  
+    },
+    "img04":{
+        "url": "04.JPG",
+        "titulo":"Colgando La Ropa en Pasto, Colombia",
+        "pais":"Colombia",
+        "lugar": "Pasto",
+        "categoria": "places",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc placerat nisl at varius convallis. Pellentesque est orci, lobortis vel nibh sit amet, convallis molestie massa. Aenean consequat auctor accumsan. Proin scelerisque elit sed augue tristique commodo. Etiam sagittis venenatis felis ut fermentum. Duis nulla ipsum, blandit eget tincidunt eu, suscipit in nibh. Sed eu bibendum dui. Nulla facilisis euismod dolor at interdum. Aenean leo arcu, pretium vitae neque vel, dapibus rutrum nisl. Curabitur maximus nec odio tristique ornare. Curabitur sit amet mauris nunc."
+  
+    },
+    "img05":{
+        "url": "05.JPG",
+        "titulo":"En la Laguna 69",
+        "pais":"Peru",
+        "lugar": "Huaraz",
+        "categoria": "places",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc placerat nisl at varius convallis. Pellentesque est orci, lobortis vel nibh sit amet, convallis molestie massa. Aenean consequat auctor accumsan. Proin scelerisque elit sed augue tristique commodo. Etiam sagittis venenatis felis ut fermentum. Duis nulla ipsum, blandit eget tincidunt eu, suscipit in nibh. Sed eu bibendum dui. Nulla facilisis euismod dolor at interdum. Aenean leo arcu, pretium vitae neque vel, dapibus rutrum nisl. Curabitur maximus nec odio tristique ornare. Curabitur sit amet mauris nunc."
+  
+    },
+    "img06":{
+        "url": "06.JPG",
+        "titulo":"Llegando a la frontera Chile/Argentina",
+        "pais":"Chile",
+        "lugar": "Atacama",
+        "categoria": "places",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc placerat nisl at varius convallis. Pellentesque est orci, lobortis vel nibh sit amet, convallis molestie massa. Aenean consequat auctor accumsan. Proin scelerisque elit sed augue tristique commodo. Etiam sagittis venenatis felis ut fermentum. Duis nulla ipsum, blandit eget tincidunt eu, suscipit in nibh. Sed eu bibendum dui. Nulla facilisis euismod dolor at interdum. Aenean leo arcu, pretium vitae neque vel, dapibus rutrum nisl. Curabitur maximus nec odio tristique ornare. Curabitur sit amet mauris nunc."
+  
+    },
+    "img07":{
+        "url": "07.JPG",
+        "titulo":"El Valle de la Luna",
+        "pais":"Chile",
+        "lugar": "Atacama",
+        "categoria": "things",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc placerat nisl at varius convallis. Pellentesque est orci, lobortis vel nibh sit amet, convallis molestie massa. Aenean consequat auctor accumsan. Proin scelerisque elit sed augue tristique commodo. Etiam sagittis venenatis felis ut fermentum. Duis nulla ipsum, blandit eget tincidunt eu, suscipit in nibh. Sed eu bibendum dui. Nulla facilisis euismod dolor at interdum. Aenean leo arcu, pretium vitae neque vel, dapibus rutrum nisl. Curabitur maximus nec odio tristique ornare. Curabitur sit amet mauris nunc."
+  
+    },
+    "img08":{
+        "url": "08.JPG",
+        "titulo":"Montañas de Huaraz",
+        "pais":"Peru",
+        "lugar": "Huaraz",
+        "categoria": "things",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc placerat nisl at varius convallis. Pellentesque est orci, lobortis vel nibh sit amet, convallis molestie massa. Aenean consequat auctor accumsan. Proin scelerisque elit sed augue tristique commodo. Etiam sagittis venenatis felis ut fermentum. Duis nulla ipsum, blandit eget tincidunt eu, suscipit in nibh. Sed eu bibendum dui. Nulla facilisis euismod dolor at interdum. Aenean leo arcu, pretium vitae neque vel, dapibus rutrum nisl. Curabitur maximus nec odio tristique ornare. Curabitur sit amet mauris nunc."
+  
+    },
+    "img09":{
+        "url": "09.JPG",
+        "titulo":"Desierto de arena",
+        "pais":"Peru",
+        "lugar": "Ica",
+        "categoria": "things",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc placerat nisl at varius convallis. Pellentesque est orci, lobortis vel nibh sit amet, convallis molestie massa. Aenean consequat auctor accumsan. Proin scelerisque elit sed augue tristique commodo. Etiam sagittis venenatis felis ut fermentum. Duis nulla ipsum, blandit eget tincidunt eu, suscipit in nibh. Sed eu bibendum dui. Nulla facilisis euismod dolor at interdum. Aenean leo arcu, pretium vitae neque vel, dapibus rutrum nisl. Curabitur maximus nec odio tristique ornare. Curabitur sit amet mauris nunc."
+  
+    },
+    "img10":{
+        "url": "10.JPG",
+        "titulo":"Musica en el Amazonas",
+        "pais":"Colombia",
+        "lugar": "Leticia",
+        "categoria": "people",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc placerat nisl at varius convallis. Pellentesque est orci, lobortis vel nibh sit amet, convallis molestie massa. Aenean consequat auctor accumsan. Proin scelerisque elit sed augue tristique commodo. Etiam sagittis venenatis felis ut fermentum. Duis nulla ipsum, blandit eget tincidunt eu, suscipit in nibh. Sed eu bibendum dui. Nulla facilisis euismod dolor at interdum. Aenean leo arcu, pretium vitae neque vel, dapibus rutrum nisl. Curabitur maximus nec odio tristique ornare. Curabitur sit amet mauris nunc."
+  
+    },
+    "img11":{
+        "url": "11.JPG",
+        "titulo":"Mas del desierto de Ica"  ,
+        "pais":"Peru",
+        "lugar": "Ica",
+        "categoria": "places",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc placerat nisl at varius convallis. Pellentesque est orci, lobortis vel nibh sit amet, convallis molestie massa. Aenean consequat auctor accumsan. Proin scelerisque elit sed augue tristique commodo. Etiam sagittis venenatis felis ut fermentum. Duis nulla ipsum, blandit eget tincidunt eu, suscipit in nibh. Sed eu bibendum dui. Nulla facilisis euismod dolor at interdum. Aenean leo arcu, pretium vitae neque vel, dapibus rutrum nisl. Curabitur maximus nec odio tristique ornare. Curabitur sit amet mauris nunc."
+    },
+    "img12":{
+        "url": "12.JPG",
+        "titulo":"El Valle de la Luna",
+        "pais":"Chile",
+        "lugar": "Atacama",
+        "categoria": "things",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc placerat nisl at varius convallis. Pellentesque est orci, lobortis vel nibh sit amet, convallis molestie massa. Aenean consequat auctor accumsan. Proin scelerisque elit sed augue tristique commodo. Etiam sagittis venenatis felis ut fermentum. Duis nulla ipsum, blandit eget tincidunt eu, suscipit in nibh. Sed eu bibendum dui. Nulla facilisis euismod dolor at interdum. Aenean leo arcu, pretium vitae neque vel, dapibus rutrum nisl. Curabitur maximus nec odio tristique ornare. Curabitur sit amet mauris nunc."
+  
+    }
+}
